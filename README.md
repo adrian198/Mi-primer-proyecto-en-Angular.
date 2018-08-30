@@ -1,2 +1,27 @@
-# Mi-primer-proyecto-en-Angular.
-Con base a las lecturas obligatorias  “Angular 4 desde 0”, Angular paso a paso y a los videos obligatorios, cree su primer proyecto en angular. El proyecto debe contener un componente mínimo y mostrar en la página información personal (Nombre completo, Departamento de origen, Ciudad) del estudiante.  Para efectos de revisión el estudiante tendrá que crear una cuenta en la plataforma de gestión de versión (GitHub), subir este primer proyecto y colgar el enlace del proyecto en la tarea.
+# AppCurso
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
