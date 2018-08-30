@@ -1,0 +1,2 @@
+# Mi-primer-proyecto-en-Angular.
+Con base a las lecturas obligatorias  “Angular 4 desde 0”, Angular paso a paso y a los videos obligatorios, cree su primer proyecto en angular. El proyecto debe contener un componente mínimo y mostrar en la página información personal (Nombre completo, Departamento de origen, Ciudad) del estudiante.  Para efectos de revisión el estudiante tendrá que crear una cuenta en la plataforma de gestión de versión (GitHub), subir este primer proyecto y colgar el enlace del proyecto en la tarea.
